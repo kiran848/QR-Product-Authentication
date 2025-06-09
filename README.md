@@ -72,7 +72,7 @@ This project ensures **guaranteed authenticity** of products using **QR code ver
 - Anjali Sharma
 - Aishna Birla
 
----
+----
 
 
 
